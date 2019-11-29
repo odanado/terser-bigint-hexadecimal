@@ -1,0 +1,11 @@
+{
+  "name": "terser-bigint-hexadecimal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/odanado/terser-bigint-hexadecimal.git",
+  "author": "odan <odan3240@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "terser": "^4.4.0"
+  }
+}
