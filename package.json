@@ -6,6 +6,6 @@
   "author": "odan <odan3240@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "terser": "^4.4.0"
+    "terser": "^4.8.1"
   }
 }
